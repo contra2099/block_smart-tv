@@ -20,7 +20,6 @@
 0.0.0.0 samsungadhub.com
 0.0.0.0 samsungosp.com
 0.0.0.0 #samsungqbe.com
-0.0.0.0 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 0.0.0.0 abtauthprd.samsungcloudsolution.com
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.samsungadhub.com
