@@ -68,13 +68,11 @@
 0.0.0.0 sas.samsungcloudsolution.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 sso.internetat.tv
-0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 targeted-config-test.samsungacr.com
 0.0.0.0 test.samsungrm.net
 0.0.0.0 time.samsungcloudsolution.com
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 us-api.samsungyosemite.com
-0.0.0.0 vd.emp.prd.s3.amazonaws.com
 0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 www.samsungotn.net
 0.0.0.0 www.samsungrm.net
@@ -90,7 +88,6 @@
 0.0.0.0 rwww.samsungotn.net
 0.0.0.0 premium-videos.telly.com
 0.0.0.0 targeted-config-test.samsungacr.com
-0.0.0.0 syncplusconfig.s3.amazonaws.com
 0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 time.samsungcloudsolution.com
